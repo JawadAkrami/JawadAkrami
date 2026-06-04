@@ -2,7 +2,7 @@
 
 Data Analyst | Product Analyst | Research Analyst
 
-Currently pursuing an MSc in Data Management, with an interdisciplinary background in Social Sciences (B.A.) and Sustainable Development Management (M.A.). 
+Currently pursuing an MSc in Data Management, with an interdisciplinary background in Social Sciences and Sustainable Development Management. 
 
 ### Technical Skills
 
@@ -21,7 +21,7 @@ Passionate about turning data into actionable insights for business and social i
 
 Datenanalyst | Produktanalyst | Forschungsanalyst
 
-Derzeit studiere ich Data Management (M.Sc.) und verfüge über einen interdisziplinären Hintergrund in Gesellschaftswissenschaften (B.A.) sowie Sustainable Development Management (M.A.). 
+Derzeit studiere ich Data Management (M.Sc.) und verfüge über einen interdisziplinären Hintergrund in Gesellschaftswissenschaften sowie Sustainable Development Management. 
 
 ### Technische Fähigkeiten
 
