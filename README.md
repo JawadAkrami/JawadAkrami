@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Jawad Akrami 
 
-<!--
-**JawadAkrami/JawadAkrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Product Analyst | Research Analyst
 
-Here are some ideas to get you started:
+Currently pursuing an MSc in Data Management, with an interdisciplinary background in Gender & Diversity (B.A.) and Sustainable Development Management (M.A.). Skilled in Python, SQL, Power BI, Statistics, Excel, Git, ETL/ELT, data warehousing, and data visualization. Passionate about turning data into actionable insights for business and social impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+-----
+
+
+🇩🇪 Deutsch
+## Hi, ich bin Jawad Akrami 
+Derzeit studiere ich Data Management (M.Sc.) und verfüge über einen interdisziplinären Hintergrund in Gender & Diversity (B.A.) sowie Sustainable Development Management (M.A.). Meine Schwerpunkte liegen in Python, SQL, Power BI, Statistik, Excel, Git, ETL/ELT, Data Warehousing und Datenvisualisierung. 
+Ich habe Freude daran, Daten in wertvolle Erkenntnisse umzuwandeln, die Unternehmen und Gesellschaft weiterbringen.
