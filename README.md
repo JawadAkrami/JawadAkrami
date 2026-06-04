@@ -2,7 +2,15 @@
 
 Data Analyst | Product Analyst | Research Analyst
 
-Currently pursuing an MSc in Data Management, with an interdisciplinary background in Gender & Diversity (B.A.) and Sustainable Development Management (M.A.). Skilled in Python, SQL, Power BI, Statistics, Excel, Git, ETL/ELT, data warehousing, and data visualization. Passionate about turning data into actionable insights for business and social impact.
+Currently pursuing an MSc in Data Management, with an interdisciplinary background in Social Sciences (B.A.) and Sustainable Development Management (M.A.). 
+
+### Technical Skills
+
+Python • Pandas • Matplotlib • SQL • Power BI • Excel • Git • R
+
+ETL/ELT • Data Warehousing • Data Visualization • Statistics
+
+Passionate about turning data into actionable insights for business and social impact.
 
 
 -----
@@ -13,5 +21,12 @@ Currently pursuing an MSc in Data Management, with an interdisciplinary backgrou
 
 Datenanalyst | Produktanalyst | Forschungsanalyst
 
-Derzeit studiere ich Data Management (M.Sc.) und verfüge über einen interdisziplinären Hintergrund in Gender & Diversity (B.A.) sowie Sustainable Development Management (M.A.). Meine Schwerpunkte liegen in Python, SQL, Power BI, Statistik, Excel, Git, ETL/ELT, Data Warehousing und Datenvisualisierung. 
+Derzeit studiere ich Data Management (M.Sc.) und verfüge über einen interdisziplinären Hintergrund in Gesellschaftswissenschaften (B.A.) sowie Sustainable Development Management (M.A.). 
+
+### Technische Fähigkeiten
+
+Python • Pandas • Matplotlib • SQL • Power BI • Excel • Git • R
+
+ETL/ELT • Data Warehousing • Datenvisualisierung • Statistik
+
 Ich habe Freude daran, Daten in wertvolle Erkenntnisse umzuwandeln, die Unternehmen und Gesellschaft weiterbringen.
