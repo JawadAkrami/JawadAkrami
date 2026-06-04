@@ -10,5 +10,8 @@ Currently pursuing an MSc in Data Management, with an interdisciplinary backgrou
 
 🇩🇪 Deutsch
 ## Hi, ich bin Jawad Akrami 
+
+Datenanalyst | Produktanalyst | Forschungsanalyst
+
 Derzeit studiere ich Data Management (M.Sc.) und verfüge über einen interdisziplinären Hintergrund in Gender & Diversity (B.A.) sowie Sustainable Development Management (M.A.). Meine Schwerpunkte liegen in Python, SQL, Power BI, Statistik, Excel, Git, ETL/ELT, Data Warehousing und Datenvisualisierung. 
 Ich habe Freude daran, Daten in wertvolle Erkenntnisse umzuwandeln, die Unternehmen und Gesellschaft weiterbringen.
