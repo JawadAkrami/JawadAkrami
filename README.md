@@ -6,7 +6,7 @@ Currently pursuing an MSc in Data Management, with an interdisciplinary backgrou
 
 ### Technical Skills
 
-Python • Pandas • Matplotlib • SQL • Power BI • Excel • Git • R
+Python • Pandas • Matplotlib • SQL • Power BI • Excel • Git
 
 ETL/ELT • Data Warehousing • Data Visualization • Statistics
 
@@ -25,7 +25,7 @@ Derzeit studiere ich Data Management (M.Sc.) und verfüge über einen interdiszi
 
 ### Technische Fähigkeiten
 
-Python • Pandas • Matplotlib • SQL • Power BI • Excel • Git • R
+Python • Pandas • Matplotlib • SQL • Power BI • Excel • Git
 
 ETL/ELT • Data Warehousing • Datenvisualisierung • Statistik
 
